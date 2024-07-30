@@ -1,0 +1,38 @@
+Historia de usuario epica   
+
+sistema de informacion transacional
+
+1. Nombre del proyecto: ComerYa
+
+2. proceso: Servicio domiciliario de comida
+
+3. actores:Clientes, Restaurantes, domiciliarios
+
+4. producto/Servicio: Servicio domiciliario, producto comida
+
+5. escenario actual: 
+
+Requerimiento:
+ComerYa requiere un sistema de informacion transacional que le permita a los usuarios la realizacion de domicilios a difetentes tipos de restaurantes,
+donde los usuarios tengan acceso a los menus y variedad de opciones al momento de realizar los pedidos.
+
+Proceso actual:
+
+
+6. escenario obetivo:
+
+
+
+7. problematica:
+
+las personas que tienen un dia ocupado o personas que no quieren viajar a diferentes restaurantes para la satisfacion de su hambre
+pocos repartidores para la alta demanda de domicilios en diferentes zonas donde es muy recurrente las operaciones con comida
+tambien para una mejora de la gestion de los pedidos que se realizen
+
+8. solucion:
+
+sistema de informacion transacional que permita la que los usuarios pueda hacer domicilios mediante la aplicacion de "ComerYa"
+se ofrecen diferentes opciones, destacando la variedad de restaurantes
+pensando tambien en una mejor gestion domiciliaria para los restarurantes
+teniendo un alcance aceptable para que los domiciliarios puedan tener una facilidad al momento de la entrega
+pensando en la satisfacion de los usuarios: facilidad, velocidad en la entrega, calidad en la comida
